@@ -10,5 +10,5 @@ The work was very challenging to start from scratch, the work includes a title w
 ![Alt text](<Screenshot 2023-08-31 at 8.36.04 PM.png>)
 
 # GitHub Repository Challenge02
-git@github.com:Jo3yG/Challenge02.git
+https://github.com/Jo3yG/Challenge02.git
 # Website Link
